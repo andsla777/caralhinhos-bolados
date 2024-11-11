@@ -4,3 +4,15 @@ height: 20px;
 background-image: url(img/menu.png);
 display:inline-block;
 }
+.cabecalho{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    
+}
